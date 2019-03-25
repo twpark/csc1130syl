@@ -15,6 +15,7 @@ Ways of Knowing in the Sciences (WKS) courses teach principles and foundational 
 Develops discipline in program design, style, debugging, testing. Introduces object-oriented design with classes, methods, and encapsulation. Introduces dynamic storage allocation and pointers. Examines arrays and linked linear data structures.
 
 Required course for:
+
 * BS in Computer Science
 * BA in Computer Science
 * BS in Information Systems
