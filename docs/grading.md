@@ -1,24 +1,45 @@
 # Assignments
 
-## Online Discussions
+## Daily Coding Workout (20%)
 
-The lecture part of this class will ask you to read the texts and discuss it online, before the next class. Weekly discussion topic and instructions will be announced on Canvas, and additional explanation will be provided in class. You can check the topic and submit your discussion posts and replies on Canvas. (Click Discussions in the navigation bar of Canvas page)
+Powered by zyBooks and its accompanied zyLabs, You will be provided with 50 daily coding working throughout the quarter. These are short and quick coding practice problems, coming with an autograder where you are supposed to submit your code and get graded immediately. Some coding workouts will be introduced in class and you may be able to get some time to work on it.
 
-First, you are expected to submit your initial post by Wednesday 11:59 PM every week. Your initial post should have more than 250 words, while following the instruction.
+The most important thing is that you SHOULD invest at least 30 minutes a day to code. 
 
-Then you will have two more days to leave **two** replies to others' posts, which is due on Friday 11:59 PM. Replies should have more than 100 words respectively.
+(1ti 4:8, NIV) For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come.
 
-A few select posts/replies may be introduced in class, with consideration of extra credits (i.e., honors point).
+So, for programming training is of some value. This will be counted toward 20% of the total credits. Workouts in a week is all due on Sunday night.
 
-Discussion assignments may not be given by instructor's discretion, depending on class topics or lab assignment progress.
+My suggestion for the coding workout is: you write a code passing all the testcases. It may not be done at once. After you finish coding, you `completely wipe out` your code and start fresh. This is your second set of workout on the same day. You should be code at ease this time. If you are still not very confident after finishing your second set, you do the same thing once again. Repeat until you feel confident.
 
-## Lab Assignments
+## zyBooks reading (20%)
 
-This class gives majority of its focus on lab activities, supposed to be done individually, outside class. Lab assignments are due on Friday.
+Every week you will have a zyBooks reading assignment, that is, you go finish reading / participating in zyBooks activities in the specified section, and submit the grade back to the canvas. You will be able to find the instruction from the canvas assignments.
 
-For lab activities, tutorial videos with online resources will be provided, so that you can follow the instructions at your pace. As well, Slack community/instructor assist is available, so consider taking its full advantage.
+First zyBooks reading assignment will be announced at the end of the first week.
 
-Hands-ons in class will be provided in a limited extent, due to skill disparities between students and time utilization's sake.
+## Programming Assignments (25%)
+
+There will be weekly programming assignments which will be counted toward 25% of your total credit. 
+
+First assignment will be announced at the end of the first week.
+
+## Quizzes and Exam (25%)
+
+On Fridays, at the end of the class, weekly quiz will be given. 
+
+As the class won't meet on 4/19, there is no quiz in that week. 
+
+So there will be 9 quizzes, and the final exam will be counted for the equivalent of 3 quizzes. 
+
+The lowest 2 quiz grades will be dropped.
+
+No make-ups of missed quizzes will be given unless prior arrangements are made, and then only for reasons of serious illness or emergency (the instructor decides whether it is a valid reason, so contact ahead).
+
+All quizzes/exams are close book activities.
+
+Policies for rescheduling final exams are set by the university and may be found at: http://spu.edu/catalog/university-calendar/finals-schedule. There will be no exceptions to this policy.
+
 
 # Assignment Policies
 
@@ -59,13 +80,15 @@ Friendly Reminder: BE SURE TO ALWAYS BACK-UP YOUR WORK and store incremental cop
 * Protect yourself: Handle throw-away program listings carefully.
 
 # Grading policy
-Grades will be based on performance in three areas:
+Grades will be based on the following areas:
 
 Area | Portion
 ------|------
-Labs | 40%
-Online Discussion | 40%
-Participation	| 20%
+Attendance | 10%
+Daily Coding Workout | 20%
+zyBooks Reading | 20%
+Programming Assignments | 25%
+Quizzes and Exam | 25%
 
 The grading scale is:
 

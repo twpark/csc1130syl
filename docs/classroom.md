@@ -1,12 +1,10 @@
 # Attendance Policy
 
-Your attendance will affect your grades directly. You have 30 points initially for the attendance.
+Your attendance will affect your grades directly, which is `10%` of your total credit. Being late to the class will be considered as `0.75 x attendance`.
 
-* If you miss a class **without a prior notice**, you will lose 10 points.
-* If you are late to the class **without a prior notice**, you will lose 7 points.
-* If your attendance point hits 0 or below, your final grade mark will be automatically E.
+* If your attendance percentage hits 80% or below, your final grade mark will be automatically E.
 
-Prior notices **should** include:
+You may want to give the instructor a prior notice, which **should** include:
 
 * Reason why you cannot make the class or would be late **(Notices without an appropriate reason may not be counted)**
 * Ideas how you would like to make-up the class
@@ -14,26 +12,9 @@ Prior notices **should** include:
 
 Prior notices will be counted **if and only if** delivered before the class begins using the following media:
 
-* Canvas message
 * Slack message
+* Canvas message
 * E-Mail
-
-# Honors Points
-
-You will be given a specific code in person, in case you show the following:
-
-* Active Participation in class
-* Helping others' lab questions on Slack channel
-    * This does not mean that you can do others' projects on their behalf.
-
-Earning 10 codes is equivalent to 5% of entire course credit and the points will be given as extra credits. All submissions will be summarized and reflected to the canvas a week before the finals' week.
-
-## How to submit a code
-
-After receiving a code, (hopefully immediately) submit it through the following link:
-
-* [bit.ly/CSC3220HONORS](http://bit.ly/CSC3220HONORS)
-
 
 # Classroom Policy Notes
 
@@ -47,17 +28,16 @@ After receiving a code, (hopefully immediately) submit it through the following 
    
     * Please turn off your cell phones at the beginning of class, or set them to silent mode, so you don’t disturb our time together. 
     * Do NOT use your computer during the class period for anything that is not class-related; that is rude and disrespectful not just to the instructor but to your classmates as well.
-    * Eating and drinking in class 
+    * Eating in class
     * Food and drink are prohibited in the classroom to protect the equipment. The only exception will be for water bottles, which are to be kept tightly closed when not being used.
     * Always take care of bathroom visits and other personal needs before class begins.  
     * ARRIVE ON TIME.  The instructor will make every effort to both start and end class on time.  Barring unavoidable emergencies, it is expected that students will be in the classroom and ready to go right on time.
     * If you know ahead of time that you need to leave class early, please let the instructor know and sit near the door so as to cause minimal distraction.
 
-    >
 
 * SPU Closure
 
-    > SPU is closed Monday, January 14 (Martin Luther King Day) and Monday, February 18 (Presidents Day). These closures will not affect this class.
+    > SPU is closed Friday afternoon, April 19 (Good Friday) and Monday Morning, April 22 (Easter Monday). Class will NOT meet on those days.
 
 * Inclement Weather
 
