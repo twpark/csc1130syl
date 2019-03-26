@@ -15,7 +15,7 @@ Once you sign-up, you can use [sputwp.slack.com](http://sputwp.slack.com) to ope
 You can stop by during the following times to ask questions *without scheduling an appointment*.
 
 * MWF 12:30 - 2:00 PM
-* TTh 11:30 - 2:00 PM
+* TTh 12:00 - 2:00 PM
 
 To schedule an appointment outside of these hours, PM me on Slack.
 
