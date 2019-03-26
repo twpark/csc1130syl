@@ -16,6 +16,8 @@ Prior notices will be counted **if and only if** delivered before the class begi
 * Canvas message
 * E-Mail
 
+If you miss any in-class activities, you have to submit your work ***in-person*** during my office hour to be counted. You have ONE week to make up after your missed class.
+
 # Classroom Policy Notes
 
 * Academic Integrity
