@@ -1,4 +1,4 @@
-site_name: CSC 2430 Spring 2019 Syllabus
+site_name: CSC 1130 Spring 2019 Syllabus
 theme: readthedocs
 
 markdown_extensions:
@@ -12,4 +12,3 @@ pages:
   - Textbook and Resources: textbook.md
   - Assignment and Grading: grading.md 
   - Attendence and Classroom Policies: classroom.md
-  - CS/IS Learning Outcomes: outcomes.md

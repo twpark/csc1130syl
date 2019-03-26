@@ -39,7 +39,7 @@ Prior notices will be counted **if and only if** delivered before the class begi
 
 * SPU Closure
 
-    > SPU is closed Friday afternoon, April 19 (Good Friday) and Monday Morning, April 22 (Easter Monday). Class will NOT meet on those days.
+    > SPU is closed Friday afternoon, April 19 (Good Friday) and Monday Morning, April 22 (Easter Monday). This class won't be affected by them.
 
 * Inclement Weather
 

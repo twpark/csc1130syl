@@ -1,33 +1,34 @@
-# Assignments
 
-## Daily Coding Workout (20%)
+# Grading policy
+Grades will be based on the following areas:
 
-* Powered by zyBooks and its accompanied zyLabs, You will be provided with 50 daily coding working throughout the quarter. These are short and quick coding practice problems, coming with an autograder where you are supposed to submit your code and get graded immediately. Some coding workouts will be introduced in class and you may be able to get some time to work on it.
-* The most important thing is that you SHOULD invest at least 30 minutes a day for this coding workout.
-  * (1ti 4:8, NIV) For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come.
-* So, for programming training is of some value. This will be counted toward 20% of the total credits. ***Workouts in a week is all due on Sunday night***.
-*  My suggestion for the coding workout is: you write a code passing all the testcases. It may not be done at once. After you finish coding, you ***completely wipe out*** your code and start fresh. This is your second set of workout on the same day. You should be code at ease this time. If you are still not very confident after finishing your second set, you do the same thing once again. Repeat until you feel confident.
+Area | Portion
+------|------
+Attendance | 10%
+Homework Assignments | 25%
+In-class Activities | 20%
+Quizzes | 30%
+Final Exam | 15%
 
-## zyBooks reading (20%)
+The grading scale is:
 
-* Every week you will have a zyBooks reading assignment, that is, you go finish reading / participating in zyBooks activities in the specified section, and submit the grade back to the canvas. You will be able to find the instruction from the canvas assignments.
-* First zyBooks reading assignment will be announced at the end of the first week.
+Range | Grade Mark
+------|------
+90% and above|A, A-
+80% - 89%|B+, B, B-
+70% - 79%|C+, C, C-
+60% - 69%|D
+Below 60%|E 
 
-## Programming Assignments (25%)
+# Quizzes (30%)
 
-* There will be weekly programming assignments which will be counted toward 25% of your total credit. 
-* First assignment will be announced at the end of the first week.
-
-## Quizzes and Exam (25%)
-
-* On Fridays, at the end of the class, weekly quiz will be given. 
-* As the class won't meet on 4/19, there is no quiz in that week. 
-* So there will be 9 quizzes, and the final exam will be counted for the equivalent of 3 quizzes. 
-* The lowest 2 quiz grades will be dropped.
+* On Tuesdays, at the end of the class, weekly quiz will be given. 
+* So there will be 9 quizzes. the lowest 2 quiz grades will be dropped.
 * No make-ups of missed quizzes will be given unless prior arrangements are made, and then only for reasons of serious illness or emergency (the instructor decides whether it is a valid reason, so contact ahead).
-* All quizzes/exams are close book activities.
-* Policies for rescheduling final exams are set by the university and may be found at: http://spu.edu/catalog/university-calendar/finals-schedule. There will be no exceptions to this policy.
+* All quizzes are close book activities unless otherwise noted.
 
+# Final Exam - Take Home
+* Detailes TBD.
 
 # Assignment Policies
 
@@ -35,9 +36,9 @@ One learns to program by programming. That is why programming assignments are a 
 
 ## Submission and Late Policy
 
-The following procedures apply to all assignments (unless specifically directed otherwise).
+The following procedures apply to homework assignments (unless specifically directed otherwise).
 
-* **All assignments must be submitted via Canvas to be accepted**. Each assignment will have a specified due date.
+* **All homework assignments must be submitted via Canvas to be accepted**. Each assignment will have a specified due date.
     * Emailed assignments are not accepted.
 * Assignments not turned in when they are due are considered late. Late assignments will receive a penalty depending on the number of days delayed:
     * -10% for less than 1 day
@@ -67,24 +68,3 @@ Friendly Reminder: BE SURE TO ALWAYS BACK-UP YOUR WORK and store incremental cop
     * Following the university policy, the act will be automatically reported to department and dean's office.
 * Protect yourself: Handle throw-away program listings carefully.
 * General academic integrity policy still applies. See Classroom Policy Notes section for more details.
-
-# Grading policy
-Grades will be based on the following areas:
-
-Area | Portion
-------|------
-Attendance | 10%
-Daily Coding Workout | 20%
-zyBooks Reading | 20%
-Programming Assignments | 25%
-Quizzes and Exam | 25%
-
-The grading scale is:
-
-Range | Grade Mark
-------|------
-90% and above|A, A-
-80% - 89%|B+, B, B-
-70% - 79%|C+, C, C-
-60% - 69%|D
-Below 60%|E 
