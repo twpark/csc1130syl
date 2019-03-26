@@ -22,6 +22,8 @@ Prior notices will be counted **if and only if** delivered before the class begi
 
     > The current edition of the SPU Undergraduate Catalog describes the University’s commitment to academic integrity, which is breached by academic dishonesty of various kinds. Among these is turning in another’s work as your own and committing plagiarism, which is the copying of portions of another’s words from a published or electronic source without acknowledgement of that source. The penalty for a breach of academic integrity is a failing grade for the work in question on the first offense and a failing grade for the course as a whole with repeated offenses. 
 
+    * For more details, see [SPU Academic Integrity Page](https://spu.edu/catalog/undergraduate/20189/academic-policies-procedures/integrity)
+
 * Classroom Environment
 
     > Mutual respect and consideration for others make for an effective classroom environment.  By following a few sensible guidelines, we can make the classroom a more comfortable place for all. Be respectful for each other and the instructor.

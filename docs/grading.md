@@ -66,6 +66,7 @@ Friendly Reminder: BE SURE TO ALWAYS BACK-UP YOUR WORK and store incremental cop
     * That is, zero for the given assignment and another deduction of full credit amount of that assignment.
     * Following the university policy, the act will be automatically reported to department and dean's office.
 * Protect yourself: Handle throw-away program listings carefully.
+* General academic integrity policy still applies. See Classroom Policy Notes section for more details.
 
 # Grading policy
 Grades will be based on the following areas:
