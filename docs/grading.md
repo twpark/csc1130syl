@@ -22,8 +22,9 @@ Below 60%|E
 
 # Quizzes (30%)
 
-* On Tuesdays, at the end of the class, weekly quiz will be given. 
+* Weekly quiz will be given on every Tuesday in class.
 * So there will be 9 quizzes. the lowest 2 quiz grades will be dropped.
+  * (1co 10:13) There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it. 
 * No make-ups of missed quizzes will be given unless prior arrangements are made, and then only for reasons of serious illness or emergency (the instructor decides whether it is a valid reason, so contact ahead).
 * All quizzes are close book activities unless otherwise noted.
 
