@@ -11,4 +11,4 @@ Ways of Knowing in the Sciences (WKS) courses teach principles and foundational 
 
 `Prerequisite: Demonstratable computer literacy and two years of high school algebra.`
 
-Covers computational thinking, designing a computerized solution to a problem, and structured programming concepts and skills. In addition the course provides an introduction to a modern programming language.
+Covers computational (and a little bit of design) thinking, designing a computerized solution to a problem, and structured programming concepts and skills. In addition the course provides an introduction to a modern programming language.

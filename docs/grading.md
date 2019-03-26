@@ -4,7 +4,7 @@ Grades will be based on the following areas:
 
 Area | Portion
 ------|------
-Attendance | 10%
+Participation (aka Attendance) | 10%
 Homework Assignments | 25%
 In-class Activities | 20%
 Quizzes | 30%
